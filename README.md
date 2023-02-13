@@ -30,8 +30,7 @@ With these features, the Mantis AR Glasses wearer will be able to use a multimet
 		- [ Install libraries ](#libraries)
 		- [ Select the driver of our display ](#selectdriver)
 - [ Bugs and error ](#bugserror)
-
-
+- [ Disclaimer ](#disclaimer)
 
 <a name="history"></a>
 # How did it start?
@@ -152,13 +151,13 @@ It should look something like this:
 <a name="bugserror"></a>
 ## Bugs and error
 
+- When you are inside an option (multimeter, battery, info...), if you click left or right, you move through the menu without the need to click back.
+- When you are in the thermal camera, if you click back, the program crashes and you need to reset the glasses.
 
 
+<a name="disclaimer"></a>
 ## Disclaimer
-
 ![alt text](https://i.imgur.com/LufqfRG.png)
-
-
 The glasses are not designed for use in devices or situations where there may be physical injury if the software has errors.
 
 
