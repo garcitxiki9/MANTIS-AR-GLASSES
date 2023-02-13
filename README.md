@@ -150,8 +150,8 @@ It should look something like this:
 ```
 
 <a name="bugserror"></a>
-##Bugs and error
-
+## Bugs and error
+![alt text](https://i.imgur.com/LufqfRG.png)
 
 
 
