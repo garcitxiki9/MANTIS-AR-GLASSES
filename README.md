@@ -69,6 +69,16 @@ In our case, we will use an ESP32 because it already has integrated WiFi and Blu
 | PS | GND        |
 
 ### Touch sensors
+![alt text](https://i.imgur.com/2C5GvKA.png)
+
+| TOUCH PIN      | ESP32 PIN |
+| :--------- | :-----:|
+| GND      | GND                    |
+| VIN      | 3V3                       |   
+| LEFT | 26        |
+| GO BACK      | 14        |   
+| SELECT | 27        |
+| RIGHT | 25        |
 
 ### Power management
 
