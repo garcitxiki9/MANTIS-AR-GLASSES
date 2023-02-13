@@ -31,6 +31,7 @@ With these features, the Mantis AR Glasses wearer will be able to use a multimet
 		- [ Select the driver of our display ](#selectdriver)
 - [ Bugs and error ](#bugserror)
 - [ Thanks and references ](#thanks)
+	- [ References ](#references)
 - [ Disclaimer ](#disclaimer)
 
 
@@ -162,6 +163,14 @@ It should look something like this:
 
 Thanks to the electronics maintenance teachers for all the help offered during the project.
 ![alt text](https://i.imgur.com/BMM94Ca.jpg)
+
+<a name="referenecs"></a>
+### References
+
+- 3D case:
+	- https://www.youtube.com/watch?v=pdVS8--_uQQ
+
+
 
 
 <a name="disclaimer"></a>
