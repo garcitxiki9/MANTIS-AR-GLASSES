@@ -161,6 +161,7 @@ It should look something like this:
 ## Thanks and refereces
 
 Thanks to the electronics maintenance teachers for all the help offered during the project.
+![alt text](https://i.imgur.com/BMM94Ca.jpg)
 
 
 <a name="disclaimer"></a>
