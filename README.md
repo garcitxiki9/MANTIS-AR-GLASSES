@@ -153,7 +153,7 @@ It should look something like this:
 
 - When you are inside an option (multimeter, battery, info...), if you click left or right, you move through the menu without the need to click back.
 - When you are in the thermal camera, if you click back, the program crashes and you need to reset the glasses.
-
+- To connect the multimeter, the glasses must be switched off, first the multimeter is switched on and then the glasses, otherwise they do not connect.
 
 <a name="disclaimer"></a>
 ## Disclaimer
