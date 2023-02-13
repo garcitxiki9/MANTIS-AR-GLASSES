@@ -30,7 +30,9 @@ With these features, the Mantis AR Glasses wearer will be able to use a multimet
 		- [ Install libraries ](#libraries)
 		- [ Select the driver of our display ](#selectdriver)
 - [ Bugs and error ](#bugserror)
+- [ Thanks and references ](#thanks)
 - [ Disclaimer ](#disclaimer)
+
 
 <a name="history"></a>
 # How did it start?
@@ -154,6 +156,12 @@ It should look something like this:
 - When you are inside an option (multimeter, battery, info...), if you click left or right, you move through the menu without the need to click back.
 - When you are in the thermal camera, if you click back, the program crashes and you need to reset the glasses.
 - To connect the multimeter, the glasses must be switched off, first the multimeter is switched on and then the glasses, otherwise they do not connect.
+
+<a name="thanks"></a>
+## Thanks and refereces
+
+Thanks to the electronics maintenance teachers for all the help offered during the project.
+
 
 <a name="disclaimer"></a>
 ## Disclaimer
