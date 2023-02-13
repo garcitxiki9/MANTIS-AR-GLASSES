@@ -17,7 +17,7 @@ With these features, the Mantis AR Glasses wearer will be able to use a multimet
 
 - [ Mantis AR Glasses ](#mantis)
 - [ Features ](#features)
-- [ How did it sttart? ](#history)
+- [ How did it start? ](#history)
 
 <a name="history"></a>
 # How did it start?
