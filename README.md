@@ -14,13 +14,6 @@ With these features, the Mantis AR Glasses wearer will be able to use a multimet
 > ***This project has been realized by the students of the department of electronics of the institute CIFP Don Bosco LHII.***
 
 
-
-**Table of Contents**
-
-[TOCM]
-
-[TOC]
-
 # How did it start?
 
 We had the opportunity to test the Vuzix smart glasses and we thought it would be a good idea to do something similar but open source and cheaper.
