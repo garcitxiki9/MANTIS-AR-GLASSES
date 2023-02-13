@@ -103,6 +103,14 @@ In our case, we will use an ESP32 because it already has integrated WiFi and Blu
 
 <a name="power"></a>
 ### Power management
+![alt text](https://i.imgur.com/TlzLC9l.png)
+
+| BATTERY PIN      | ESP32 PIN |
+| :--------- | :-----:|
+| BATT-      | GND                    |
+| BAT+      | 3V3                       |   
+| VOLTAGE DIVIDER OUTPUT  | 34        |
+
 
 <a name="software"></a>
 ## Software
