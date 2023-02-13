@@ -29,6 +29,9 @@ With these features, the Mantis AR Glasses wearer will be able to use a multimet
 	- [ Software ](#software)
 		- [ Install libraries ](#libraries)
 		- [ Select the driver of our display ](#selectdriver)
+- [ Bugs and error ](#bugserror)
+
+
 
 <a name="history"></a>
 # How did it start?
@@ -146,7 +149,8 @@ It should look something like this:
 ...
 ```
 
-
+<a name="bugserror"></a>
+##Bugs and error
 
 
 
