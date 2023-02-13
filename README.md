@@ -158,6 +158,7 @@ It should look something like this:
 <a name="disclaimer"></a>
 ## Disclaimer
 ![alt text](https://i.imgur.com/LufqfRG.png)
+
 The glasses are not designed for use in devices or situations where there may be physical injury if the software has errors.
 
 
