@@ -57,7 +57,7 @@ We had a better understanding of the required hardware after disassembling the s
 <a name="mantisglasses"></a>
 ### Mantis Glasses
 ![alt text](https://i.imgur.com/GydCLwF.jpg)
-
+In this photo, you can see the components we used for our glasses based on the Vuzix Blade.
 
 <a name="whatweneed"></a>
 # What do we need?
