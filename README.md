@@ -19,6 +19,9 @@ With these features, the Mantis AR Glasses wearer will be able to use a multimet
 - [ Mantis AR Glasses ](#mantis)
 - [ Features ](#features)
 - [ How did it start? ](#history)
+	- [ Reverse engineering ](#reverse)
+		- [ Vuzix Blade ](#vuzixblade)
+		- [ Mantis Glasses ](#mantisglasses)
 - [ What do we need? ](#whatweneed)
 	- [ List of materials ](#listofmaterials)
 	- [ Circuits and connections ](#circuits)
@@ -40,7 +43,20 @@ With these features, the Mantis AR Glasses wearer will be able to use a multimet
 
 We had the opportunity to test the Vuzix smart glasses and we thought it would be a good idea to do something similar but open source and cheaper.
 
--poner fotos de las vuzix y nuestras gafas
+One advantage of our glasses is that as they are open source, anyone with sufficient knowledge can improve them or adapt them to their needs.
+
+<a name="reverse"></a>
+## Reverse engineering
+Before starting to design the parts, program or design the electronic circuits, we had to know how a smart glasses were made inside, so we disassembled the Vuxiz Blade to have a clearer idea of how to realize our project.
+
+<a name="vuzixblade"></a>
+### Vuzix Blade
+
+![alt text](https://i.imgur.com/sv9tv17.png)
+
+<a name="mantisglasses"></a>
+### Mantis Glasses
+![alt text](https://i.imgur.com/GydCLwF.jpg)
 
 
 <a name="whatweneed"></a>
