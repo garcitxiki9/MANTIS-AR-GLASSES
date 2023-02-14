@@ -51,8 +51,8 @@ Before starting to design the parts, program or design the electronic circuits, 
 
 <a name="vuzixblade"></a>
 ### Vuzix Blade
-
 ![alt text](https://i.imgur.com/sv9tv17.png)
+We had a better understanding of the required hardware after disassembling the smart glasses.
 
 <a name="mantisglasses"></a>
 ### Mantis Glasses
