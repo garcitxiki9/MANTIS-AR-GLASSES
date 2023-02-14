@@ -186,7 +186,7 @@ Thanks to the electronics maintenance teachers for all the help offered during t
 - 3D case:
 	- https://www.youtube.com/watch?v=pdVS8--_uQQ
 	
--How to install and use the TFT_eSPI library
+- How to install and use the TFT_eSPI library
 	- https://www.youtube.com/watch?v=T2A4cEktt6Q
 
 - Voltage divider design
