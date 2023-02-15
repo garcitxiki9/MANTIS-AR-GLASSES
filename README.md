@@ -32,6 +32,7 @@ With these features, the Mantis AR Glasses wearer will be able to use a multimet
 	- [ Software ](#software)
 		- [ Install libraries ](#libraries)
 		- [ Select the driver of our display ](#selectdriver)
+		- [ Mirrored display ](#mirror)
 - [ Bugs and error ](#bugserror)
 - [ Thanks and references ](#thanks)
 	- [ References ](#references)
@@ -169,6 +170,17 @@ It should look something like this:
 #include <User_Setups/Setup43_ST7735.h>            // Setup file for ESP8266 & ESP32 configured for my ST7735S 80x160
 ...
 ```
+
+<a name="mirror"></a>
+### Mirrored display
+![alt text](https://i.imgur.com/ETUNoCL.png)
+
+```c++
+
+tft.writecommand(TFT_MADCTL); //access to display memory
+tft.writedata(0xE0); // send data to change to mirror effect
+```
+
 
 ## Future improvements
 ![alt text](https://i.imgur.com/2f78QRz.png)
