@@ -147,8 +147,10 @@ In our case, we will use an ESP32 because it already has integrated WiFi and Blu
 To install a library in arduino we have to go to :
 - sketch->include library->manage libraries
 ![alt text](https://i.imgur.com/vbDBNBz.png)
+
 And a window will open where we can look for the name of the library:
 - TFT_eSPI
+
 ![alt text](https://i.imgur.com/Cnmn5hQ.png)
 
 <a name="selectdriver"></a>
