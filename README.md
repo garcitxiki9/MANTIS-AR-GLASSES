@@ -181,6 +181,7 @@ It should look something like this:
 ## Thanks and refereces
 
 Thanks to the electronics maintenance teachers for all the help offered during the project.
+
 ![alt text](https://i.imgur.com/BMM94Ca.jpg)
 
 <a name="referenecs"></a>
@@ -194,6 +195,12 @@ Thanks to the electronics maintenance teachers for all the help offered during t
 
 - Voltage divider design
 	- [voltage divider](https://www.pangodream.es/esp32-getting-battery-charging-level) 	
+
+- ST7735 Datasheet
+	- [ST7735 Datasheet](https://www.displayfuture.com/Display/datasheet/controller/ST7735.pdf) 	
+
+- Image converter
+	- [Image converter](http://www.rinkydinkelectronics.com/t_imageconverter565.php) 	
 
 
 
