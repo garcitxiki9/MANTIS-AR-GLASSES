@@ -116,6 +116,8 @@ In our case, we will use an ESP32 because it already has integrated WiFi and Blu
 <a name="touchsensors"></a>
 ### Touch sensors
 ![alt text](https://i.imgur.com/2C5GvKA.png)
+![alt text](https://i.imgur.com/iEKXjxF.jpg)
+
 
 | TOUCH PIN      | ESP32 PIN |
 | :--------- | :-----:|
