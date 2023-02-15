@@ -170,6 +170,12 @@ It should look something like this:
 ...
 ```
 
+## Future improvements
+![alt text](https://i.imgur.com/2f78QRz.png)
+
+- A good improvement of this project would be to implement AI, you can use the Whisper AI to talk and pass the audio to text to send it to ChatGPT and what ChatGPT answers, Whisper passes it to audio.
+
+
 <a name="bugserror"></a>
 ## Bugs and error
 
