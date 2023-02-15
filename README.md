@@ -224,7 +224,8 @@ Thanks to the electronics maintenance teachers for all the help offered during t
 - c++ image converter
 	- [Image converter](http://www.rinkydinkelectronics.com/t_imageconverter565.php) 	
 
-
+- Bluetooth connection
+	- [Bluetooth connection](https://github.com/ludwich66/Bluetooth-DMM)	
 
 <a name="disclaimer"></a>
 ## Disclaimer
