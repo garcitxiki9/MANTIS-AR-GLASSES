@@ -201,7 +201,7 @@ Thanks to the electronics maintenance teachers for all the help offered during t
 - ST7735 Datasheet
 	- [ST7735 Datasheet](https://www.displayfuture.com/Display/datasheet/controller/ST7735.pdf) 	
 
-- Image converter
+- c++ image converter
 	- [Image converter](http://www.rinkydinkelectronics.com/t_imageconverter565.php) 	
 
 
