@@ -71,8 +71,8 @@ void spr_creation() {
 
 void buttons() {
   // read the state of the pushbutton value:
-  int left_state = digitalRead(button_left);
-  int right_state = digitalRead(button_right);
+  byte left_state = digitalRead(button_left);
+  byte right_state = digitalRead(button_right);
 
   // check if the pushbutton is pressed. If it is, the button state is HIGH:
   if ((left_state == HIGH) && (right_state == LOW)) {
@@ -100,10 +100,10 @@ void buttons() {
 
 void select_option(int index) {
   // read the state of the pushbutton value:
-  int left_state = digitalRead(button_left);
-  int right_state = digitalRead(button_right);
-  int select_state = digitalRead(button_select);
-  int goback_state = digitalRead(button_goback);
+  byte left_state = digitalRead(button_left);
+  byte right_state = digitalRead(button_right);
+  byte select_state = digitalRead(button_select);
+  byte goback_state = digitalRead(button_goback);
 
   c_index = index;
   if(p_index != c_index) {
@@ -417,10 +417,10 @@ void info_page() {
 
 void debugging() {
   /*
-  int left_state = digitalRead(left);
-  int right_state = digitalRead(right);
-  int select_state = digitalRead(select);
-  int goback_state = digitalRead(goback);
+  byte left_state = digitalRead(left);
+  byte right_state = digitalRead(right);
+  byte select_state = digitalRead(select);
+  byte goback_state = digitalRead(goback);
   Serial.println("");
   Serial.println("left\tright\tselect\tgoback\tm_index\tp_index\tc_index\tmenu_states");
   Serial.print(left_state);  Serial.print("\t");  Serial.print(right_state);  Serial.print("\t");  Serial.print(select_state); Serial.print("\t");  Serial.print(goback_state); Serial.print("\t");  Serial.print(m_index); Serial.print("\t");  Serial.print(p_index);  Serial.print("\t");  Serial.print(c_index); Serial.print("\t");  Serial.print(menu_states);
