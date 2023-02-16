@@ -5,7 +5,7 @@
 void setup() {
   //Serial.begin(115200);// only for test
   //Set the data manually without the RTC module
-  //rtc.setTime(15, 30, 10, 9, 2, 2023); //seconds; minutes; hour; day; month; year  
+  rtc.setTime(15, 30, 10, 9, 2, 2023); //seconds; minutes; hour; day; month; year  
   
   // Init and get the time
   configTime(gmtOffset_sec, daylightOffset_sec, ntpServer);
@@ -296,19 +296,9 @@ void main_page() {
   
   spr_background.drawString(str_option, x_str, y_str, 2);
   spr_background.drawString(str_info, x_str_info, y_str_info, 2);
-  //spr_background.drawString(str_time_hour, x_str_time_hour, y_str_time_hour, 2);
-  //spr_background.drawString(str_time_minutes, x_str_time_minutes, y_str_time_minutes, 2);
-  //spr_background.drawString(str_time_date, x_str_time_date, y_str_time_date, 2);
-
- //EXPERIMENTO
- 
-  //spr_background.drawString(&timeinfo, "%H", x_str_time_hour, y_str_time_hour, 2);
-  spr_background.drawString("", x_str_time_minutes, y_str_time_minutes, 2);
+  spr_background.drawString(str_time_hour, x_str_time_hour, y_str_time_hour, 2);
+  spr_background.drawString(str_time_minutes, x_str_time_minutes, y_str_time_minutes, 2);
   spr_background.drawString(str_time_date, x_str_time_date, y_str_time_date, 2);
-
-  
-  spr_background.drawString(str_volts_number, x_str_volts, y_str_volts, 2);
-  spr_background.drawString(str_volts, x_str_volts_level, y_str_volts_level, 2);
 
   spr_background.pushSprite(0, 0);
 }
