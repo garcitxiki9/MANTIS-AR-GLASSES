@@ -8,12 +8,8 @@
 #include "MLX90640_API.h" //github.com/sparkfun/SparkFun_MLX90640_Arduino_Example
 #include "MLX90640_I2C_Driver.h"
 #include <EEPROM.h>
-#include <WiFi.h>
-#include "time.h"
-#include "sntp.h"
 #include <ESP32Time.h>
 #include <BLEDevice.h>
-#include <WebServer.h>
 #include <Pangodream_18650_CL.h>
 #include "load_screen_160x80.h"
 #include "multimeter35x35.h"
